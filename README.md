@@ -16,7 +16,7 @@ Este repositório contém a versão final do blog desenvolvido no curso de Pytho
 ## Como rodar o projeto localmente
 
 ```bash
-git clone https://github.com/martinanunesb29/blogmartina.git
+git clone https://github.com/martinanunesb/blogmartina.git
 cd blogmartina
 python -m venv venv
 venv\Scripts\activate  # no Windows
