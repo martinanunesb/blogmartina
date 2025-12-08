@@ -1,6 +1,6 @@
 # Blog da Martina 
 
-Projeto desenvolvido com Django para o curso de Python da Coderhouse.
+Este repositório contém a versão final do blog desenvolvido no curso de Python da Coderhouse (módulo Django).
 
 ## Funcionalidades
 - Cadastro e login de usuários
