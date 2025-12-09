@@ -57,7 +57,7 @@ Python 3 instalado e `git` configurado.
 ```bash
 # Clonar o repositório
 git clone https://github.com/martinanunesb/blogmartina.git
-cd blogmartina
+cd django-blog-messages
 
 # Criar ambiente virtual
 python -m venv .venv
